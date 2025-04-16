@@ -6,9 +6,7 @@
     nav{
         display: flex;
         justify-content:space-between;
-        border: 5px solid blue;
-        
-        
+        border: 5px solid blue;              
         padding: 10px
     }
 
@@ -48,8 +46,32 @@
     .logout li a{
         color: red;
         text-decoration: none;
+        font-weight: bold;
+        font-size: 18px;
 
     }
 
+    .resulthuay {
+        background-color: cyan;
+       
+        justify-content: center;
+        height: fit-content;
+        
+    }
 
+    .resulthouy-info {
+        text-align: center;
+        height: 150px;
+    }
+
+    .resulthouy-info h2 {
+        font-size: 16px;
+
+    }
+
+    .chkhouy {
+        text-align: center;
+
+    }
+    
 }
