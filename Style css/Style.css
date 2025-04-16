@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    nav{
+        display: flex;
+        justify-content:space-between;
+        border: 5px solid blue;
+        
+        
+        padding: 10px
+    }
+
+    ul{
+        display: flex;
+        list-style: none;
+        
+       
+
+        
+    }
+
+    .houylist{
+        display: flex;
+        
+            }
+
+    .houylist li{
+        margin-left: 10px;
+
+                }
+    
+    .houylist li a{
+            color: black;
+            border: 1px solid black;
+            padding: 8px ;
+            text-decoration: none;
+            
+    }
+
+    .logout li {
+        margin-left: 10px;
+        
+        
+
+    }
+    .logout li a{
+        color: red;
+        text-decoration: none;
+
+    }
+
+
+}
