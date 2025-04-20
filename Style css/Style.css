@@ -6,13 +6,13 @@
     nav{
         display: flex;
         justify-content:space-between;
-        border: 5px solid blue;              
-        padding: 10px
-    }
+        border: 5px solid blue;       
+        padding: 10px;
+        }
 
     ul{
-        display: flex;
-        list-style: none;
+        display: flex
+        list-style: none
         
        
 
